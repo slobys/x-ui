@@ -42,7 +42,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/slobys/x-ui/main/install.sh)
 ```    
 For English Users,please use the following command to install English supported version:  
 ```
-bash <(curl -Ls https://github.com/slobys/x-ui/blob/main/install_en.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/slobys/x-ui/main/install_en.sh)
 ```    
 # 效果预览  
 `面板使用`:  
